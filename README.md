@@ -1,4 +1,4 @@
-# Face_Emotion_Detection
+# Face Emotion Detection using CNNs
 
 ### ABSTRACT:
 
